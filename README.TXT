@@ -4,12 +4,12 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-ASSIGNMENT:
+ASSIGNMENT: BattleShip Simulator
 
-AUTHOR(S):
+AUTHOR(S): Victor Mukete
 
-VERSION or DATE:
+VERSION or DATE: N/A
 
-HOW TO START THIS PROJECT:
+HOW TO START THIS PROJECT: Initial configurations for the ships are already set up. Both can be changed/edited
 
-USER INSTRUCTIONS:
+USER INSTRUCTIONS: None
